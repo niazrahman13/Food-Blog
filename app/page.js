@@ -7,7 +7,7 @@ import TiramisuDelight from "./TiramisuDelight/page";
 
 export default function Home() {
   return (
-    <main class="container mx-auto px-4 mt-[100px]">
+    <main className="container mx-auto px-4 mt-[100px]">
       <TiramisuDelight />
       <SuperDelicious />
       <PopularCategorues />
